@@ -1,0 +1,21 @@
+Name: Items
+Type: FolderType
+Children:
+- Name: RedLabel
+  Type: ObjectLibraryItem
+  Children:
+  - Name: RedLabel
+    Id: g=7ceeef4b803dfe62d2b62624bd959f26
+    Supertype: Label
+    ReferenceType: HasComponent
+    Children:
+    - Name: Text
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+      ModellingRule: Optional
+      Value: {"LocaleId":"en-US","Text":"Label1"}
+    - Name: TextColor
+      Type: BaseDataVariableType
+      DataType: Color
+      ModellingRule: Optional
+      Value: "#ff0000"
