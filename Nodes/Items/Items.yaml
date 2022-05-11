@@ -19,3 +19,9 @@ Children:
       DataType: Color
       ModellingRule: Optional
       Value: "#ff0000"
+- Name: MyObject
+  Type: ObjectLibraryItem
+  Children:
+  - Name: MyObject
+    Id: g=db0dbbca6afb010692181eff66e50df6
+    Supertype: BaseObjectType
