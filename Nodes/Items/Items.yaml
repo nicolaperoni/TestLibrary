@@ -48,10 +48,10 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 1.0
-- Name: MarkHobbsWidget
+- Name: NicolaWidget
   Type: ObjectLibraryItem
   Children:
-  - Name: MarkHobbsWidget
+  - Name: NicolaWidget
     Id: g=0d0f400d02639463b29d728ae00d6b6e
     Supertype: CircularGauge
     ReferenceType: HasComponent
