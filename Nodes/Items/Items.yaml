@@ -25,3 +25,26 @@ Children:
   - Name: MyObject
     Id: g=db0dbbca6afb010692181eff66e50df6
     Supertype: BaseObjectType
+- Name: SohailRectacle
+  Type: ObjectLibraryItem
+  Children:
+  - Name: SohailRectacle
+    Id: g=087b894790b1ae59c146853b48c0a636
+    Supertype: Rectangle
+    ReferenceType: HasComponent
+    Children:
+    - Name: Width
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 50.0
+    - Name: Height
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 50.0
+    - Name: BorderThickness
+      Type: BaseDataVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 1.0
