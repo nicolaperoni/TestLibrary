@@ -120,10 +120,10 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 170.0
-- Name: Image1
+- Name: Image3
   Type: ObjectLibraryItem
   Children:
-  - Name: Image1
+  - Name: Image3
     Id: g=ebc68f296d2e0eea32171135e6b6920b
     Supertype: Image
     ReferenceType: HasComponent
