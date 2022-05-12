@@ -97,10 +97,10 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 80.0
-- Name: ChangedLabel
+- Name: ChangedLabel2
   Type: ObjectLibraryItem
   Children:
-  - Name: ChangedLabel
+  - Name: ChangedLabel2
     Id: g=f498a5b17ff79a32e8a468d6fe88ff10
     Supertype: Label
     ReferenceType: HasComponent
