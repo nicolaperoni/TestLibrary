@@ -19,10 +19,10 @@ Children:
       DataType: Color
       ModellingRule: Optional
       Value: "#ff0000"
-- Name: Hello
+- Name: HelloSteve
   Type: ObjectLibraryItem
   Children:
-  - Name: Hello
+  - Name: HelloSteve
     Id: g=db0dbbca6afb010692181eff66e50df6
     Supertype: BaseObjectType
 - Name: AlbertoRectangle
