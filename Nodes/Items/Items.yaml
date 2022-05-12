@@ -25,10 +25,10 @@ Children:
   - Name: MyObject
     Id: g=db0dbbca6afb010692181eff66e50df6
     Supertype: BaseObjectType
-- Name: SohailRectacle
+- Name: AlbertoRectangle
   Type: ObjectLibraryItem
   Children:
-  - Name: SohailRectacle
+  - Name: AlbertoRectangle
     Id: g=087b894790b1ae59c146853b48c0a636
     Supertype: Rectangle
     ReferenceType: HasComponent
