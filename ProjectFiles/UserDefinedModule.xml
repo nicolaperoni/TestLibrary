@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module version="1">
+    <Name>TestLibraryUserDefinedModule</Name>
+    <Company></Company>
+    <Version>0.0.0</Version>
+    <MinUpgradableVersion>0.0.0</MinUpgradableVersion>
+    <Binding name="Net" />
+
+    <Namespaces/>
+
+    <Dependencies>
+        <Core version="0.0.0" />
+        <Binding version="0.0.0" />
+        <Module name="QPlatform.HMIProject.Net" version="0.0.0" />
+    </Dependencies>
+
+    <Nodes/>
+
+    <TypeMappings>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="TestLibrary" guid="087b894790b1ae59c146853b48c0a636" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="TestLibrary" guid="7ceeef4b803dfe62d2b62624bd959f26" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="TestLibrary" guid="f498a5b17ff79a32e8a468d6fe88ff10" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="TestLibrary" guid="db0dbbca6afb010692181eff66e50df6" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="TestLibrary" guid="0d0f400d02639463b29d728ae00d6b6e" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="TestLibrary" guid="dd73217a794960c7402055bf9691d5d8" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="TestLibrary" guid="ebc68f296d2e0eea32171135e6b6920b" />
+            </TargetType>
+        </TypeMapping>
+    </TypeMappings>
+</Module>
